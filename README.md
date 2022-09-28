@@ -1,5 +1,8 @@
 [![Travis CI](https://travis-ci.org/RxSwiftCommunity/RxDataSources.svg?branch=main)](https://travis-ci.org/RxSwiftCommunity/RxDataSources)
 
+# Announcement :loudspeaker: 
+This repository is transferred from [gdm-SynseneHealth](https://github.com/draysontechnologies/RxDataSources) to Huma organisation as part of change in asset ownership 
+
 Table and Collection view data sources
 ======================================
 
